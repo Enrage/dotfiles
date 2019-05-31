@@ -1,0 +1,47 @@
+{
+    "workbench.colorTheme": "Darcula Extra",
+    "workbench.statusBar.feedback.visible": false,
+    "editor.fontFamily": "'Fira Code Retina', 'monospace', monospace, 'Droid Sans Fallback'",
+    "window.zoomLevel": 0,
+    "editor.letterSpacing": -0.5,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.quickSuggestionsDelay": 10,
+    "files.encoding": "utf8",
+    "editor.showFoldingControls": "mouseover",
+    "window.openFilesInNewWindow": "off",
+    "workbench.editor.enablePreview": false,
+    "editor.mouseWheelScrollSensitivity": 0.8,
+    "window.title": "${activeEditorShort}${separator}${rootName}",
+    "editor.tabSize": 2,
+    "files.trimTrailingWhitespace": true,
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorStyle": "line-thin",
+    "editor.fontLigatures": true,
+    "vim.useCtrlKeys": false,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["d", "f"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.easymotion": true,
+    "vim.cursorStylePerMode.insert": "line-thin",
+    "vim.cursorStylePerMode.normal": "underline-thin",
+    "vim.cursorStylePerMode.visual": "block-outline",
+    "vim.cursorStylePerMode.visualblock": "block-outline",
+    "vim.cursorStylePerMode.visualline": "block-outline",
+    "vim.cursorStylePerMode.replace": "underline-thin",
+    "vim.startInInsertMode": true,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#252525",
+        "statusBar.noFolderBackground": "#252525",
+        "statusBar.debuggingBackground": "#252525"
+    },
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontSize": 15
+}
