@@ -1,0 +1,32 @@
+{
+	"name": "Theme-Best",
+	"displayName": "Best Theme",
+	"description": "Best Theme ported BestSublime Theme",
+	"version": "1.0.0",
+	"publisher": "enrage",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"homepage": "https://github.com/gerane/VSCodeThemes/blob/master/gerane.Theme-IR_Black/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gerane/VSCodeThemes.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "BestTheme",
+				"uiTheme": "vs-dark",
+				"path": "./theme/BlackPearl.tmTheme"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "34e8730b-9399-4a96-9fee-6031960e2351",
+		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
+		"publisherDisplayName": "enrage"
+	}
+}
